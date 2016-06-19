@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*couleur bg: #FFFFFF;  txt: #4B4949; action:#E16776; */
 p{
 	font-color:#4B4949;
@@ -61,4 +62,20 @@ h1{
 hr{
 	color:#E16776;
 	width: 15px;
+=======
+body{
+	margin:0px;
+}
+.yellow{
+	height:800px;
+	background-color:yellow;
+}
+.green{
+	height:200px;
+	background-color:green;
+}
+.red{
+	height:200px;
+	background-color: red;
+>>>>>>> 3e4d53ced9d6b20eb119e258c07f3f0ad02b36cd
 }

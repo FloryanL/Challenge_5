@@ -1177,12 +1177,7 @@ h2,
 h3,
 h4,
 h5,
-h6,{  font-family: inherit;
-      font-weight: 500;
-      line-height: 1.1;
-      color: inherit;
-      margin-left: 50%;
-    }
+h6,
 .h1,
 .h2,
 .h3,
@@ -4732,10 +4727,10 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   padding: 6px 12px;
   margin-left: -1px;
   line-height: 1.42857143;
-  color: #CD5C5C;
+  color: #337ab7;
   text-decoration: none;
   background-color: #fff;
-  border: 2px solid #CD5C5C;
+  border: 1px solid #ddd;
 }
 .pagination > li:first-child > a,
 .pagination > li:first-child > span {
