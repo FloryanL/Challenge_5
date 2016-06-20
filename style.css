@@ -5,6 +5,8 @@
 .yellow{
 	height:800px;
 	background-color:yellow;
+	padding-right:0px;
+	padding-left:0px;
 }
 .green{
 	height:200px;
@@ -12,6 +14,7 @@
 	background-repeat:no-repeat;
 	background-size:cover; 
 	padding:0px;
+	height:200px;
 }
 .red{
 	height:200px;
@@ -19,6 +22,7 @@
 	background-repeat:no-repeat;
 	background-size:cover; 
 	padding:0px;
+	height:200px;
 
 }
 .green2{
@@ -27,29 +31,54 @@
 	background-repeat:no-repeat;
 	background-size:cover; 
 	padding:0px;
+	height:200px;
+
 	}
 .block_1{
 	height:100px;
 	background-color:black;
 	color:white;
+	padding-right:0px;
+	padding-left:0px;
 }
 .gray{
 	height:500px;
-	background-color:gray;
+	background-color:white;
+	padding-right:0px;
+	padding-left:0px;
 }
 .white{
 	height:500px;
 	background-color:white;
+	padding-right:0px;
+	padding-left:0px;
+	margin:70px;
 }
 .pink{
 	height: 500px;
-	background-color:red;
+	background-color:white;
+	padding-right:0px;
+	padding-left:0px;
 }
 .footer{
 	height:100px;
 	background-color:black;
+	padding-right:0px;
+	padding-left:0px;
 }
 .img1{
 	width:100%;
 	height:100%; 
+}
+.padding{
+	padding-left:0px;
+	padding-right:0px;
+}
+.pink a{
+	color:green;
+}
+.pink h4{
+	margin-top:70px;
+	padding-top:10px;
+	border-top:4px solid black;
 }
