@@ -76,37 +76,40 @@ body {
 	padding-left: 0px;
 }
 .white{
-	height:500px;
-	background-color:white;
-	padding-right:0px;
-	padding-left:0px;
-	margin:70px;
+	height: 500px;
+	background-color: white;
+	padding-right: 0px;
+	padding-left: 0px;
+	margin: 70px;
 }
 .pink{
 	height: 500px;
-	background-color:white;
-	padding-right:0px;
-	padding-left:0px;
+	background-color: white;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 .footer{
-	height:100px;
-	background-color:black;
-	padding-right:0px;
-	padding-left:0px;
+	height: 50px;
+	background-color: black;
+	padding-right: 0px;
+	padding-left: 2%;	
 }
 .img1{
-	width:100%;
-	height:100%; 
+	width: 100%;
+	height: 100%; 
 }
 .padding{
-	padding-left:0px;
-	padding-right:0px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 .pink a{
-	color:green;
+	color: green;
 }
 .pink h4{
-	margin-top:70px;
-	padding-top:10px;
-	border-top:4px solid black;
+	margin-top: 70px;
+	padding-top: 10px;
+	border-top: 4px solid black;
+}
+iframe {
+	background-position: center;
 }
