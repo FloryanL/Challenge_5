@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Projet_Fedala
+
+Projet_5
 =======
 Exercice 5 : audiotheme
 
@@ -21,4 +21,4 @@ Rollovers :
 - Il y a un changement d'opacité 
 
 Vous pouvez tester le thème ici pour voir les effets: https://demo.audiotheme.com/progeny-mmxiv/ Je compte sur vous pour ne pas recopier tout le CSS :)
->>>>>>> 3e4d53ced9d6b20eb119e258c07f3f0ad02b36cd
+
