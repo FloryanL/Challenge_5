@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 /*	1280*600 = desktop
 	768*1024 = tablette
 	320*480 = portable */
 
-=======
+/*font-family: Lato;*/
+
 /*commentaires*/
 /*	resolution: 320px	mobile
 	resolution: 768px	tablette
@@ -22,23 +22,15 @@
 	
 }	*/
 
-@media screen and (max-width: 320px)
-{
-	.block_1 {
-	min-height: 100px;
-	background-color: black;
-	color: white;
-	padding-right: 0px;
-	padding-left: 0px;
-}
-
-}
 body {
 	margin: 0;
 }
->>>>>>> 85810d78831b17785323273241a4863107c353f3
+.container-fluid {
+	padding: 0;
+	margin: 0;
+}
 .yellow{
-	height: 800px;
+	height: 900px;
 	background-color: yellow;
 	padding-right: 0px;
 	padding-left: 0px;
@@ -70,7 +62,7 @@ body {
 
 	}
 .block_1{
-	min-height: 100px;
+	height: 100px;
 	background-color: black;
 	color: white;
 	padding-right: 0px;
@@ -98,7 +90,7 @@ body {
 .footer{
 	height: 50px;
 	background-color: black;
-	padding-right: 0px;
+	padding-right: 0;
 	padding-left: 2%;	
 }
 .img1{
@@ -119,4 +111,12 @@ body {
 }
 iframe {
 	background-position: center;
+}
+
+@media screen and (max-width: 320px) {
+	
+	.block_1 {
+	
+	}
+
 }
