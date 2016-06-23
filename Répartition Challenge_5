@@ -1,0 +1,10 @@
+voila comment s'est deroulé notre travail:
+Juliette a incrusté les images du haut, Floryan a corriger les margins/paddings dans les textes du dessous 
+qui sinon ne marchait pas en responsive car ils etaient dans une div separée des images.
+Juliette a fait le "squelette boostrap" de la page du site, sauf pour la "navbar" qui a été positionner ensemble.
+Floryan a incrusté les videos youtube, et les hovers verts des liens.
+Juliette a fait les textes, et la liste.
+Floryan a fait des recherches sur les media queries.
+Dans l'ensemble, nous avons travailler de notre coté mais il est difficile d'evaluer la repartitions des taches, 
+car a chaque probleme rencontré nous nous sommes concerté.
+notre plus grosse difficulté a été de positionner la navbar.
