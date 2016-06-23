@@ -29,13 +29,13 @@ body {
 	padding: 0;
 }
 
-.yellow{
+.yellow {
 	height: 1000px;
 	background-color: yellow;
 	padding-right: 0px;
 	padding-left: 0px;
 }
-.green{
+.green {
 	height: 200px;
 	background: url("images/1.jpg");
 	background-repeat :no-repeat;
@@ -43,25 +43,41 @@ body {
 	padding: 0px;
 	height: 200px;
 }
-.red{
+.green:hover {
+	background: url("images/1.jpg");
+	background-repeat :no-repeat;
+	background-size: cover;
+	opacity: 0.9;
+}
+.red {
 	height: 200px;
 	background: url("images/2.jpg");
 	background-repeat: no-repeat;
 	background-size: cover; 
 	padding: 0px;
 	height: 200px;
-
 }
-.green2{
+.red:hover {
+	background: url("images/2.jpg");
+	background-repeat :no-repeat;
+	background-size: cover;
+	opacity: 0.9;
+}
+.green2 {
 	height: 200px;
 	background: url("images/3.jpg");
 	background-repeat: no-repeat;
 	background-size: cover; 
 	padding: 0px;
 	height: 200px;
-
-	}
-.block_1{
+}
+.green2:hover {
+	background: url("images/3.jpg");
+	background-repeat :no-repeat;
+	background-size: cover;
+	opacity: 0.9;
+}
+.block_1 {
 	height: 100px;
 	background-color: black;
 	color: white;	
