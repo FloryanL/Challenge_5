@@ -78,9 +78,21 @@ h5 {
 	font-weight: 300;
 	text-transform: upp;
 }
+a {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	color: #24890d;
+	text-decoration: none;
+}
 h4 {
 	font-family: Lato;
 	font-weight: 300;
+}
+p a {
+	color: #24890d;
+	text-decoration: none;
 }
 .gray{
 	height: 600px;
