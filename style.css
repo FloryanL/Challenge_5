@@ -41,11 +41,10 @@ body {
 	background-repeat :no-repeat;
 	background-size: cover; 
 	padding: 0px;
-	height: 200px;
 }
 .green:hover {
 	background: url("images/1.jpg");
-	background-repeat :no-repeat;
+	background-repeat : no-repeat;
 	background-size: cover;
 	opacity: 0.9;
 }
@@ -55,11 +54,10 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover; 
 	padding: 0px;
-	height: 200px;
 }
 .red:hover {
 	background: url("images/2.jpg");
-	background-repeat :no-repeat;
+	background-repeat : no-repeat;
 	background-size: cover;
 	opacity: 0.9;
 }
@@ -69,11 +67,10 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover; 
 	padding: 0px;
-	height: 200px;
 }
 .green2:hover {
 	background: url("images/3.jpg");
-	background-repeat :no-repeat;
+	background-repeat : no-repeat;
 	background-size: cover;
 	opacity: 0.9;
 }
@@ -128,6 +125,12 @@ p a {
 	background-color: white;
 	padding-right: 0px;
 	padding-left: 0px;
+}
+.img_audiotheme {
+	background: url(elements/images/audiotheme-overview-video-thumbnail.jpg);
+	background-repeat :no-repeat;
+	background-size: cover;
+	height: 200px;
 }
 /*.footer{
 	height: 50px;
