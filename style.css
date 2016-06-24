@@ -183,15 +183,18 @@ h1{
 	font-weight:300px;
 }
 .nav_bar{
-	background-color:black;
-	margin-bottom:0px;
+	background-color: black;
+	color: white;
+	margin-bottom: 0px;
 }
 .topito{
-	padding-top:50px;
+	padding-top: 50px;
+	margin: auto;
 }
 .nav_bar li {
 	display: inline;
-	margin-left: 5%;
+	margin-left: 2%;
+	color: white;
 }
 .navbar_img{
 	height:200px;
