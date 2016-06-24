@@ -31,9 +31,46 @@ body {
 
 .yellow {
 	height: 1000px;
-	background-color: yellow;
+	background-color: black;
 	padding-right: 0px;
 	padding-left: 0px;
+}
+.yellow ul{
+	list-style:none;
+	padding:0px;
+}
+.liste{
+	border-top:1px solid white;
+	padding:10px;
+}
+.liste2{
+	border-bottom: 1px solid white;
+}
+.liste:hover{
+	background-color:green;
+	border:1px dotted white;
+}
+.yellow img{
+	padding-left:20px;
+}
+.yellow h5{
+	padding-left:20px;
+}
+.yellow p{
+	padding-left:20px;
+}
+.yellow input{
+	margin-left:20px;
+}
+.form-control{
+	background-color:#1A1A1A;
+}
+.input-group .form-control{
+	width:85%;
+}
+.input-group{
+	padding-top:45px;
+	padding-bottom:45px;
 }
 .green {
 	height: 200px;
