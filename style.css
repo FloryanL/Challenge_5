@@ -31,10 +31,22 @@ body {
 
 .yellow {
 	height: 1000px;
-	background-color: yellow;
+	background-color: black;
 	padding-right: 0px;
 	padding-left: 0px;
 }
+.yellow ul{
+	list-style:none;
+}
+.liste{
+	border-top:1px solid white;
+	margin:10px;
+	padding:10px;
+}
+.liste2{
+	border-bottom: 1px solid white;
+}
+
 .green {
 	height: 200px;
 	background: url("images/1.jpg");
@@ -186,7 +198,6 @@ h1{
 .topito{
 	padding-top:50px;
 }
-
 .navbar_img{
 	height:200px;
 	width:200px;
