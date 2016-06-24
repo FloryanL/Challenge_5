@@ -243,8 +243,8 @@ h1{
 	color: white;
 }
 .nav_bar li {
-	display: inline;
-	margin-left: 2%;
+	display: inline-block;
+	margin: 1% 0% 1% 2%;
 	color: white;
 }
 .navbar_img{
