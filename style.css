@@ -192,7 +192,7 @@ p a {
 	padding-right: 0px;
 }
 .pink a{
-	color: green;
+	color: #24890d;
 }
 .pink h4{
 	margin-top: 70px;
@@ -231,21 +231,21 @@ h1{
 	color: white;
 	margin-bottom: 0px;
 }
+.nav_bar li {
+	display: inline-block;
+	margin: 1% 0% 1% 2%;
+	color: white;
+}
+.liste_top ul:hover {
+	background-color:#24890d;
+	color: white;
+}
 .blocpush {
 	padding: 0;
 }
 .topito{
 	padding-top: 50px;
 	margin: auto;
-}
-.liste_top:hover {
-	background-color:green;
-	color: white;
-}
-.nav_bar li {
-	display: inline-block;
-	margin: 1% 0% 1% 2%;
-	color: white;
 }
 .navbar_img{
 	height:95%;
