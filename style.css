@@ -159,6 +159,7 @@ iframe {
 	background-position: center;
 }
 
+/* media queries */
 @media screen and (max-width: 320px) {
 	
 	.block_1 {
@@ -169,6 +170,8 @@ iframe {
 	padding-left: 0px;
 	}
 }
+/* fin media queries */
+
 .video2{
 	height:200px;
 }
@@ -186,7 +189,10 @@ h1{
 .topito{
 	padding-top:50px;
 }
-
+.nav_bar li {
+	display: inline;
+	margin-left: 5%;
+}
 .navbar_img{
 	height:200px;
 	width:200px;
