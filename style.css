@@ -24,6 +24,7 @@
 
 body {
 	margin: 0;
+	background-color:black;
 }
 .container-fluid {
 	padding: 0;
@@ -33,6 +34,7 @@ body {
 	background-color: black;
 	padding-right: 0px;
 	padding-left: 0px;
+	padding-top:75px;
 }
 .yellow ul{
 	list-style:none;
@@ -48,6 +50,7 @@ body {
 .liste:hover{
 	background-color:green;
 	border:1px dotted white;
+	color:white;
 }
 .yellow img{
 	padding-left:20px;
@@ -78,6 +81,7 @@ body {
 .input-group{
 	padding-top:70px;
 	padding-bottom:70px;
+	width: 95%;
 }
 .green {
 	height: 200px;
