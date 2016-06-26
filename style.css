@@ -169,7 +169,7 @@ p a {
 	background-color: white;
 	padding-right: 0px;
 	padding-left: 0px;
-	margin: 70px;
+	margin: 75px;
 }
 .pink{
 	
@@ -227,7 +227,8 @@ iframe {
 	height:200px;
 }
 .video1{
-	height:320px;
+	height:300px;
+	width:80%;
 }
 h1{
 	font-size:30px;
