@@ -156,10 +156,13 @@ p a {
 	text-decoration: none;
 }
 .gray{
-	height: 600px;
 	background-color: white;
 	padding-right: 0px;
 	padding-left: 0px;
+}
+.gray p{
+	padding-top:30px;
+	font-size:18px;
 }
 .white{
 	height: 500px;
@@ -169,7 +172,7 @@ p a {
 	margin: 70px;
 }
 .pink{
-	height:500px;
+	
 	background-color: white;
 	padding-right: 0px;
 	padding-left: 0px;
@@ -224,7 +227,7 @@ iframe {
 	height:200px;
 }
 .video1{
-	height:250px;
+	height:320px;
 }
 h1{
 	font-size:30px;
