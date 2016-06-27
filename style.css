@@ -253,11 +253,14 @@ h1{
 	margin-bottom: 0px !important;
 }
 .nav_bar li {
-	display: inline-block;
-	margin: 1% 0% 1% 2%;
+	display: inline-block;	
 	color: white;
 }
-.liste_top ul:hover {
+.liste_top li a:hover {
+	background-color:#24890d;
+	color: white;
+}
+.active {
 	background-color:#24890d;
 	color: white;
 }
