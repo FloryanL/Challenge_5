@@ -1,10 +1,5 @@
-/*	1280*600 = desktop
-	768*1024 = tablette
-	320*480 = portable */
-
 /*font-family: Lato;*/
 
-/*commentaires*/
 /*	resolution: 320px	mobile
 	resolution: 768px	tablette
 	resolution: 1280px	standard
@@ -188,6 +183,13 @@ p a {
 	background-size: cover;
 	height: 200px;
 }
+/*.img_audiotheme:hover {
+	height: 200px;
+	margin: auto;
+	background-image: url("elements/bg");
+	background-color: white;
+	background-size: cover;
+}*/
 .footer{
 	height: 50px;
 	font-size: 12px;
@@ -225,19 +227,17 @@ iframe {
 /* media queries */
 @media screen and (max-width: 320px) {
 	
-	.block_1 {
-	min-height: 100px;
-	background-color: black;
-	color: white;
-	padding-right: 0px;
-	padding-left: 0px;
+	.btn btn-responsive-nav {
+		background: black;
+		color: white;
 	}
+	.fa fa-bars{
+		display: block; 
+	}
+	
 }
 /* fin media queries */
 
-/*.video2{
-	height:200px;
-}*/
 .video1{
 	height: 268px;
     width: 475px;
@@ -250,7 +250,7 @@ h1{
 .nav_bar{
 	background-color: black;
 	color: white;
-	margin-bottom: 0px;
+	margin-bottom: 0px !important;
 }
 .nav_bar li {
 	display: inline-block;
@@ -261,6 +261,15 @@ h1{
 	background-color:#24890d;
 	color: white;
 }
+/* début de bouton responsive */
+
+/*.btn-responsive-nav {
+	background: black;
+	color: transparent;
+}
+.fa fa-bars {
+	display: none;
+} */
 .blocpush {
 	padding: 0;
 }
