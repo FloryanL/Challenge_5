@@ -169,9 +169,9 @@ p a {
 .white{
 	height: 500px;
 	background-color: white;
-	padding-right: 0px;
-	padding-left: 0px;
-	margin: 75px;
+	/*padding-right: 0px;*/
+	/*padding-left: 0px;*/
+	margin: 55px;
 }
 .pink{
 	
@@ -183,6 +183,7 @@ p a {
 	background: url(elements/images/audiotheme-overview-video-thumbnail.jpg);
 	background-repeat :no-repeat;
 	background-size: cover;
+	position: center;
 	height: 200px;
 }
 .footer{
@@ -225,12 +226,12 @@ iframe {
 }
 /* fin media queries */
 
-.video2{
+/*.video2{
 	height:200px;
-}
+}*/
 .video1{
-	height:300px;
-	width:80%;
+	height: 268px;
+    width: 475px;
 }
 h1{
 	font-size:30px;
