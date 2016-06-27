@@ -50,6 +50,8 @@ body {
 .liste:hover{
 	background-color:green;
 	border:1px dotted white;
+}
+.liste li a:hover{
 	color:white;
 }
 .yellow img{
