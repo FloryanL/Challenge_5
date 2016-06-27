@@ -5,6 +5,6 @@ qui sinon ne marchait pas en responsive car ils étaient dans une div séparée 
 Juliette a fait le "squelette boostrap" de la page du site, sauf pour la "navbar" qui a été positionné ensemble.
 Floryan a incrusté les vidéos Youtube, et les hovers verts des liens.
 Juliette a fait les textes et la liste.
-Floryan a fait des recherches sur les media queries.
+Floryan a fait des recherches sur les media queries et le bouton fa-bars responsive mobile.
 Dans l'ensemble, nous avons travaillé de notre côté mais il est difficile d'évaluer la répartitions des tâches, 
 car à chaque problème rencontré nous nous sommes concertés.
